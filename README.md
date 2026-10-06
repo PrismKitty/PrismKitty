@@ -1,4 +1,7 @@
-<img src="docs/readme/banner.png" width="846" alt="PrismKitty: open-source tools and indie games">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrismKitty/PrismKitty/main/docs/readme/banner-light.png">
+  <img src="https://raw.githubusercontent.com/PrismKitty/PrismKitty/main/docs/readme/banner.png" width="846" alt="PrismKitty: open-source tools and indie games">
+</picture>
 
 Hi, I'm PrismKitty. I make open-source tools and indie games.
 
